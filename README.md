@@ -20,7 +20,7 @@ Proyek ini dibuat sebagai senjata digital ringan untuk melawan ketidakadilan... 
 Langsung clone repo-nya:
 
 ```bash
-$ git clone https://github.com/Sxp-ID/my-spambot
+$ git clone https://github.com/ableeins/my-spambot
 $ cd my-spambot
 $ make install
 $ ./main
